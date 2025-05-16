@@ -32,10 +32,9 @@ Libraries Used: OpenCV, SpeechRecognition, pyttsx3, face_recognition, Flask, etc
 4). Interact through the web UI or voice commands.
 
 📂 Folder Structure
-
-/jarvis
-  ├── frontend/       # HTML/CSS/JS files
-  ├── backend/        # Python scripts and Flask APIs
-  ├── models/         # Face recognition and ML models
-  ├── static/         # Assets (images, audio, etc.)
-  └── templates/      # HTML templates for Flask
+JARVIS:--
+  frontend:--      HTML/CSS/JS files
+   backend:--      Python scripts and Flask APIs
+  models:--        Face recognition and ML models
+  static:--        Assets (images, audio, etc.)
+   templates:--    HTML templates for Flask
